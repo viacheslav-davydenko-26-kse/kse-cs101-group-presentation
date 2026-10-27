@@ -20,7 +20,7 @@ oscillation or chaotic behavior, negative feedback generally promotes stability.
 
 > Виникає цікаве питання: Як ви важаєте, що є кориснішим в контексті дистанційно керованого апарату?
 
-Прикладом позитивного зворотнього зв'язку в хімії є вибух, тобто бомба =). [3.1.3][3.1.3]
+Прикладом позитивного зворотнього зв'язку в хімії є вибух, тобто бомба =). [3.1.3.][3.1.3.]
 
 ### Пропорційно-інтегрально-диференціальний закон регулювання
 
@@ -59,7 +59,7 @@ https://en.wikipedia.org/wiki/Pathfinding#A*_algorithm
 
 [3.1.2.]: https://en.wikipedia.org/wiki/Negative_feedback
 
-[3.1.3]: https://en.wikipedia.org/wiki/Positive_feedback
+[3.1.3.]: https://en.wikipedia.org/wiki/Positive_feedback
 
 [3.1.1.1.]: https://en.wikipedia.org/wiki/PID_controller
 

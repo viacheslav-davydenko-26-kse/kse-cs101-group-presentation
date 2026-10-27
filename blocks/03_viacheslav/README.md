@@ -2,16 +2,10 @@
 
 Існує три види роботизованих програм: дистанційне керування, штучний інтелект і гібрид [3.1.][3.1.].
 
-## Дистанційне керування
-
-**Дистанці́йне керува́ння**, — керування об'єктами і системами на відстані шляхом передачі
-до них каналами зв'язку сигналів для увімкнення відповідних виконавчих пристроїв
-(реле, вимикачів, контакторів, пускачів, вентилів, засувок тощо).[3.1.1.][3.1.1.]
-
-### Зворотний зв'язок
+## Зворотний зв'язок
 
 **Зворо́тний зв'язо́к**  — вплив результату функціонування будь-якої системи
-на характер її подальшого функціонування [3.1.1.1.][3.1.1.1.].
+на характер її подальшого функціонування [3.1.1.][3.1.1.].
 
 За характером впливу зворотній зв'язок поділяють на *позитивний* і *негативний* (balancing feedback).
 
@@ -22,17 +16,32 @@
 ...при цьому також підвищується стійкість системи та зменшується похибка та інерційність системи.
 
 Whereas positive feedback tends to instability via exponential growth,
-oscillation or chaotic behavior, negative feedback generally promotes stability [3.1.1.2.][3.1.1.2.].
+oscillation or chaotic behavior, negative feedback generally promotes stability [3.1.2.][3.1.2.].
 
 > Виникає цікаве питання: Як ви важаєте, що є кориснішим в контексті дистанційно керованого апарату?
 
-Прикладом позитивного зворотнього зв'язку в хімії є вибух, тобто бомба =) [3.1.1.3][3.1.1.3].
+Прикладом позитивного зворотнього зв'язку в хімії є вибух, тобто бомба =) [3.1.3][3.1.3].
+
+## Дистанційне керування
+
+**Дистанці́йне керува́ння**, — керування об'єктами і системами на відстані шляхом передачі
+до них каналами зв'язку сигналів для увімкнення відповідних виконавчих пристроїв
+(реле, вимикачів, контакторів, пускачів, вентилів, засувок тощо).[3.2.1.][3.2.1.]
+
+
+## Штучний інтелект
+
+### Алгоритм пошуку A*
+https://www.reddit.com/r/computerscience/comments/t8hdut/is_pathfinding_considered_artificial_intelligence/
+https://www.statsig.com/perspectives/pathfinder-userflows-aipathfinding
+https://en.wikipedia.org/wiki/A*_search_algorithm
+https://en.wikipedia.org/wiki/Pathfinding#A*_algorithm
 
 
 ## Джерела
 
 [3.1.]: https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%BE%D1%82%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0
-[3.1.1.]: https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%B5_%D0%BA%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F
-[3.1.1.1.]: https://uk.wikipedia.org/wiki/%D0%97%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%B9_%D0%B7%D0%B2%27%D1%8F%D0%B7%D0%BE%D0%BA
-[3.1.1.2.]: https://en.wikipedia.org/wiki/Negative_feedback
-[3.1.1.3]: https://en.wikipedia.org/wiki/Positive_feedback
+[3.1.1.]: https://uk.wikipedia.org/wiki/%D0%97%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%B9_%D0%B7%D0%B2%27%D1%8F%D0%B7%D0%BE%D0%BA
+[3.1.2.]: https://en.wikipedia.org/wiki/Negative_feedback
+[3.1.3]: https://en.wikipedia.org/wiki/Positive_feedback
+[3.2.1.]: https://uk.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D0%B5_%D0%BA%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F

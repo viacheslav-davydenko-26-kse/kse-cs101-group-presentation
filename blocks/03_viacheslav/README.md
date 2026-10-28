@@ -116,4 +116,4 @@ https://www.statsig.com/perspectives/pathfinder-userflows-aipathfinding
 
 [3.3.1.1.]: https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83_A*
 
-[3.3.1.2.]: 
+[3.3.1.2.]: https://en.wikipedia.org/wiki/Heuristic

@@ -80,10 +80,16 @@ tools that enable operators to remotely control and monitor unmanned aerial syst
 ## 3.3. Штучний інтелект
 
 ### 3.3.1. Алгоритм пошуку A*
+
+**Алгоритм пошуку А*** («А зірочка» або англ. «A star») — належить до евристичних алгоритмів пошуку.
+Використовується для пошуку найкоротшого шляху між двома вершинами графу з додатніми вагами ребер. [3.3.1.1.][3.3.1.1.]
+
+**Евристика** це будь-який підхід до розв’язання задач, що використовує прагматичний метод; такий метод не обов’язково є оптимізованим, досконалим чи раціоналізованим, проте він є «достатньо хорошим» як наближене рішення або як заміна одного атрибута іншим. [3.3.1.2.][3.3.1.2.]
+
+> Чи можна розглядати алгоритм як штучний інтелект?
+Ось пару силок, які говорять, що цілком так:
 https://www.reddit.com/r/computerscience/comments/t8hdut/is_pathfinding_considered_artificial_intelligence/
 https://www.statsig.com/perspectives/pathfinder-userflows-aipathfinding
-https://en.wikipedia.org/wiki/A*_search_algorithm
-https://en.wikipedia.org/wiki/Pathfinding#A*_algorithm
 
 
 ## Джерела
@@ -107,3 +113,7 @@ https://en.wikipedia.org/wiki/Pathfinding#A*_algorithm
 [3.2.1.2.1]: https://www.telecomtrainer.com/gcs-ground-control-system/
 
 [3.2.1.3.1]: https://uk.wikipedia.org/wiki/MAVLink
+
+[3.3.1.1.]: https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83_A*
+
+[3.3.1.2.]: 

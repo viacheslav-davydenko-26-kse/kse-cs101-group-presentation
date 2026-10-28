@@ -2,7 +2,7 @@
 
 Існує три види роботизованих програм: дистанційне керування, штучний інтелект і гібрид. [3.1.][3.1.]
 
-## Зворотний зв'язок
+## 3.1. Зворотний зв'язок
 
 **Зворо́тний зв'язо́к**  — вплив результату функціонування будь-якої системи
 на характер її подальшого функціонування. [3.1.1.][3.1.1.]
@@ -22,7 +22,7 @@ oscillation or chaotic behavior, negative feedback generally promotes stability.
 
 Прикладом позитивного зворотнього зв'язку в хімії є вибух, тобто бомба =). [3.1.3.][3.1.3.]
 
-### Пропорційно-інтегрально-диференціальний закон регулювання
+### 3.1.1. Пропорційно-інтегрально-диференціальний закон регулювання
 
 **(ПІД) регулятор** — це механізм керування із зворотним зв’язком, який широко використовується для
 управління обладнанням і процесами, що потребують безперервного контролю та автоматичного регулювання. [3.1.1.1.][3.1.1.1.]
@@ -35,20 +35,22 @@ oscillation or chaotic behavior, negative feedback generally promotes stability.
 
 Для дронів це може бути механізм, який дозволяє тримати їхню рівновагу в повітрі. [FPV Drone PID Explained](https://oscarliang.com/pid/)
 
-## Дистанційне керування
+## 3.2. Дистанційне керування
 
 **Дистанці́йне керува́ння**, — керування об'єктами і системами на відстані шляхом передачі
 до них каналами зв'язку сигналів для увімкнення відповідних виконавчих пристроїв
 (реле, вимикачів, контакторів, пускачів, вентилів, засувок тощо). [3.2.1.][3.2.1.]
 
-### ArduPilot/Mission Planner/MAVLink
+### 3.2.1. ArduPilot/Mission Planner/MAVLink
 
-#### ArduPilot
+#### 3.2.1.1. ArduPilot
+
 **ArduPilot** is a trusted, versatile, and open source autopilot system supporting
 many vehicle types: multi-copters, traditional helicopters, fixed wing aircraft,
 boats, submarines, rovers and more. [сайт](https://ardupilot.org/)
 
-#### Mission Planner
+#### 3.2.1.2. Mission Planner
+
 **Mission Planner** is a full-featured ground station application
 for the ArduPilot open source autopilot project.
 
@@ -57,14 +59,14 @@ It is a ground control station (GCS) for Plane, Copter and Rover. [сайт](htt
 A ground control system (GCS) is a collection of hardware and software
 tools that enable operators to remotely control and monitor unmanned aerial systems (UAS) from the ground. [3.2.1.2.1][3.2.1.2.1]
 
-#### MAVLink
+#### 3.2.1.3. MAVLink
 
 **MAVLink (англ. Micro Air Vehicle Link)** — комунікаційний протокол безпілотного апарату із наземною станцією. [3.2.1.3.1][3.2.1.3.1]
 
 
-## Штучний інтелект
+## 3.3. Штучний інтелект
 
-### Алгоритм пошуку A*
+### 3.3.1. Алгоритм пошуку A*
 https://www.reddit.com/r/computerscience/comments/t8hdut/is_pathfinding_considered_artificial_intelligence/
 https://www.statsig.com/perspectives/pathfinder-userflows-aipathfinding
 https://en.wikipedia.org/wiki/A*_search_algorithm

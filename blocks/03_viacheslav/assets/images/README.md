@@ -11,3 +11,5 @@
 `barracude.jpg`: https://focus.ua/static/storage/thumbs/1290x645/0/75/dp2jmc---c1200x600x0sx46s--f9b48a818d8e30cbfb70d35640525750.jpg?v=8778_1
 `drone-swarm.jpg`: https://combine.se/app/uploads/2024/07/drone-swarm-scaled.jpg
 `pid.jpg`: https://www.kevsrobots.com/assets/img/how_it_works/pid.jpg
+`hand-water-tap.jpg`: https://media.istockphoto.com/id/1253215110/photo/thin-child-small-hands-opening-faucet-with-water-in-bathroom.jpg?s=612x612&w=0&k=20&c=M5iYa7r_vxmUzr4Ts6AxNONbD77duCkgCR9W45F5Avo=
+`mavic-3-pro.jpg`: https://cdn.mos.cms.futurecdn.net/9Zz7CYmtPG9qviqGJheDNm.jpg

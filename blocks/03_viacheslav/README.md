@@ -59,7 +59,7 @@ for the ArduPilot open source autopilot project.
 It is a ground control station (GCS) for Plane, Copter and Rover. [сайт](https://ardupilot.org/planner/docs/mission-planner-overview.html) 
 
 A ground control system (GCS) is a collection of hardware and software
-tools that enable operators to remotely control and monitor unmanned aerial systems (UAS) from the ground. [3.2.1.2.1][3.2.1.2.1]
+tools that enable operators to remotely control and monitor unmanned aerial systems (UAS) from the ground. [3.2.1.2.1.][3.2.1.2.1.]
 
 **Чому нам варто використовувати його?**: [2:52](https://www.youtube.com/watch?v=pj35Gu0TGys&t=172)
 
@@ -74,7 +74,7 @@ tools that enable operators to remotely control and monitor unmanned aerial syst
 
 #### 3.2.1.3. MAVLink
 
-**MAVLink (англ. Micro Air Vehicle Link)** — комунікаційний протокол безпілотного апарату із наземною станцією. [3.2.1.3.1][3.2.1.3.1]
+**MAVLink (англ. Micro Air Vehicle Link)** — комунікаційний протокол безпілотного апарату із наземною станцією. [3.2.1.3.1.][3.2.1.3.1.]
 
 
 ## 3.3. Штучний інтелект
@@ -124,9 +124,9 @@ https://www.statsig.com/perspectives/pathfinder-userflows-aipathfinding
 
 [3.2.2.]: https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB_%D0%B7%D0%B2'%D1%8F%D0%B7%D0%BA%D1%83
 
-[3.2.1.2.1]: https://www.telecomtrainer.com/gcs-ground-control-system/
+[3.2.1.2.1.]: https://www.telecomtrainer.com/gcs-ground-control-system/
 
-[3.2.1.3.1]: https://uk.wikipedia.org/wiki/MAVLink
+[3.2.1.3.1.]: https://uk.wikipedia.org/wiki/MAVLink
 
 [3.3.1.1.]: https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%BF%D0%BE%D1%88%D1%83%D0%BA%D1%83_A*
 

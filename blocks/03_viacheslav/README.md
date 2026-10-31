@@ -132,4 +132,4 @@ https://www.statsig.com/perspectives/pathfinder-userflows-aipathfinding
 
 [3.3.1.2.]: https://en.wikipedia.org/wiki/Heuristic
 
-[3.4.1.1]: https://www.rfwireless-world.com/terminology/understanding-drone-swarm-systems
+[3.4.1.1.]: https://www.rfwireless-world.com/terminology/understanding-drone-swarm-systems
